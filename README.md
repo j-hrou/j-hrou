@@ -5,6 +5,8 @@
 Hello! I'm Joseph Hajiroussos, a results-driven Insight Analyst with a proven record of translating complex data into actionable intelligence. At VisitScotland, I play a key role in shaping Scotland's tourism strategy by delivering critical insights that drive growth and optimize performance. My expertise spans data analysis, visualization, and stakeholder communication, and I'm passionate about leveraging data to identify opportunities and solve business challenges.
 This GitHub page serves as a portfolio to showcase some of my projects and skills. Feel free to explore and get in touch!
 
+Explore my portfolio: https://github.com/j-hrou/Data-Analyst-Portfolio
+
 ## Experience Highlights
 
 ### VisitScotland (October 2021 - Present)
