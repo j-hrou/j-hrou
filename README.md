@@ -44,6 +44,6 @@ Explore my portfolio: https://github.com/j-hrou/Data-Analyst-Portfolio
 
 ## Connect
 
-* LinkedIn: [linkedin.com/in/joseph-hajiroussos](linkedin.com/in/joseph-hajiroussos)
+* LinkedIn: [linkedin.com/in/joseph-hajiroussos](http://linkedin.com/in/joseph-hajiroussos)
 
 Thank you for visiting!
