@@ -2,14 +2,23 @@
 
 ## About Me
 
-Hello! I'm Joseph Hajiroussos, a results-driven Insight Analyst with a proven record of translating complex data into actionable intelligence. At VisitScotland, I play a key role in shaping Scotland's tourism strategy by delivering critical insights that drive growth and optimize performance. My expertise spans data analysis, visualization, and stakeholder communication, and I'm passionate about leveraging data to identify opportunities and solve business challenges.
+Hello! I'm Joseph Hajiroussos, currently the Data and Reporting Lead at Erskine Stewart Melville Schools. I turn messy data into clear reporting that enables staff to deliver an exceptional education. Previously, at VisitScotland, I played a key role as an Insight Analyst, shaping Scotland's tourism strategy by delivering critical insights to drive growth and optimize performance. My expertise spans data analysis, visualization, and stakeholder communication, and I'm passionate about leveraging data to identify opportunities and solve business challenges.
 This GitHub page serves as a portfolio to showcase some of my projects and skills. Feel free to explore and get in touch!
 
 Explore my portfolio: https://github.com/j-hrou/Data-Analyst-Portfolio
 
 ## Experience Highlights
 
-### VisitScotland (October 2021 - Present)
+### Erskine Stewart Melville Schools (October 2025 - Present)
+
+**Data and Reporting Lead**
+
+* Introduced, shaped and delivered the school-wide data and reporting strategy, enabling informed operational, strategic and educational decision-making.
+* Established and lead data protection and information governance as the school's GDPR Lead, delivering and assuring UK GDPR compliance through DPIAs, breach management, retention and consent frameworks, and policy development.
+* Designed and delivered a suite of Power BI dashboards, bringing together multiple data sources to provide clear and actionable insights.
+* Built and maintained data pipelines and reporting processes to ensure accurate, timely and relevant data is available to staff across the school.
+  
+### VisitScotland (October 2021 - October 2025)
 
 **Insight Analyst**
 
