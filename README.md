@@ -1,4 +1,4 @@
-# Joseph Hajiroussos - Insight Analyst
+# Joseph Hajiroussos - Data and Reporting Lead
 
 ## About Me
 
