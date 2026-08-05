@@ -13,7 +13,7 @@ Explore my portfolio: https://github.com/j-hrou/Data-Analyst-Portfolio
 
 **Data and Reporting Lead**
 
-* Introduced, shaped and delivered the school-wide data and reporting strategy, enabling informed operational, strategic and educational decision-making.
+* Introduced, shaped and delivered the school-wide data and reporting strategy, enabling informed operational, strategic and academic decision-making.
 * Established and lead data protection and information governance as the school's GDPR Lead, delivering and assuring UK GDPR compliance through DPIAs, breach management, retention and consent frameworks, and policy development.
 * Designed and delivered a suite of Power BI dashboards, bringing together multiple data sources to provide clear and actionable insights.
 * Built and maintained data pipelines and reporting processes to ensure accurate, timely and relevant data is available to staff across the school.
